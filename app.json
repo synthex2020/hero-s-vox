@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e8ea7ff-858d-4d62-aea5-4955356fb681"
+      }
+    },
+    "owner": "synthex2020"
   }
 }
